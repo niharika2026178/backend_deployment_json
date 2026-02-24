@@ -1,0 +1,39 @@
+{
+    "students":[
+        {
+            "id":1,
+            "name":"Alice",
+            "age":20,
+            "cousre":"Computer Science",
+            "email":"alice@gmail.com"
+        },
+        {
+            "id":2,
+            "name":"Bob",
+            "age":24,
+            "course":"Maths",
+            "email":"bob@gmail.com"
+        },
+        {
+            "id":3,
+            "name":"Charlie",
+            "age":25,
+            "course":"English",
+            "email":"charlie@gmail.com"
+        },
+        {
+            "id":4,
+            "name":"David",
+            "age":25,
+            "course":"Chem",
+            "email":"david@gmail.com"
+        },
+        {
+            "id":5,
+            "name":"Eve",
+            "age":26,
+            "course":"Biology",
+            "email":"eve@gmail.com"
+        }
+    ]
+}
